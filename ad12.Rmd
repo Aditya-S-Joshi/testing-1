@@ -1,0 +1,18 @@
+---
+title: "ADitya"
+output: html_document
+---
+
+
+## R Markdown
+
+HI
+
+
+
+
+## Including Plots
+
+You can also embed plots, for example:
+
+print("hello")
